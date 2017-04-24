@@ -1,0 +1,6 @@
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\wtsnApp\wtsnApp\bin\wtsnApp.dll.config
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\wtsnApp\wtsnApp\bin\wtsnApp.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\wtsnApp\wtsnApp\bin\wtsnApp.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\wtsnApp\wtsnApp\obj\Debug\wtsnApp.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\wtsnApp\wtsnApp\obj\Debug\wtsnApp.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\wtsnApp\wtsnApp\obj\Debug\wtsnApp.pdb
